@@ -1,0 +1,624 @@
+{
+    "links":[
+        {
+            "relation": "Ingredinets",
+            "source": "Bunny chow",
+            "target": "bread",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Bunny chow",
+            "target": "curry",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Chakhchoukha",
+            "target": "chickpea",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Chakhchoukha",
+            "target": "tomato",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Chakhchoukha",
+            "target": "onion",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Chakhchoukha",
+            "target": "garlic",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Chakhchoukha",
+            "target": "meat",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Chakhchoukha",
+            "target": "vegetables",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Chakhchoukha",
+            "target": "algerian spices",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Crab dip",
+            "target": "Crab",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Crab dip",
+            "target": "cream cheese",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Crab dip",
+            "target": "mayonnaise",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Quesadilla salvadoreña",
+            "target": "flour",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Quesadilla salvadoreña",
+            "target": "sugar",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Quesadilla salvadoreña",
+            "target": "cheese",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Huangqiao Sesame Cake",
+            "target": "flour",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Huangqiao Sesame Cake",
+            "target": "salt",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Huangqiao Sesame Cake",
+            "target": "yeast",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Huangqiao Sesame Cake",
+            "target": "caramel",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Huangqiao Sesame Cake",
+            "target": "pork suet",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Huangqiao Sesame Cake",
+            "target": "onion",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Huangqiao Sesame Cake",
+            "target": "sesame",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Huangqiao Sesame Cake",
+            "target": "alkali",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Huangqiao Sesame Cake",
+            "target": "lard",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Osmania biscuit",
+            "target": "milk",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Osmania biscuit",
+            "target": "flour",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Osmania biscuit",
+            "target": "salt",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Osmania biscuit",
+            "target": "sugar",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Amaretti di Saronno",
+            "target": "apricot kernels",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Amaretti di Saronno",
+            "target": "sugar",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Amaretti di Saronno",
+            "target": "egg",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Basler Läckerli",
+            "target": "honey",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Basler Läckerli",
+            "target": "hazelnuts",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Basler Läckerli",
+            "target": "almond",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Basler Läckerli",
+            "target": "candied peel",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Basler Läckerli",
+            "target": "kirsch",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Faraoa okina ipo",
+            "target": "flour",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Faraoa okina ipo",
+            "target": "coconut milk",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Faraoa okina ipo",
+            "target": "yeast",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Faraoa okina ipo",
+            "target": "coconut water",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Frog cake",
+            "target": "sponge cake",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Frog cake",
+            "target": "jam",
+            "value": 3
+        },
+        {
+            "relation": "Ingredinets",
+            "source": "Frog cake",
+            "target": "cream",
+            "value": 3
+        },
+        {
+            "relation": "Belong",
+            "source": "Africa",
+            "target": "Bunny chow",
+            "value": 3
+        },
+        {
+            "relation": "Belong",
+            "source": "Africa",
+            "target": "Chakhchoukha",
+            "value": 3
+        },
+        {
+            "relation": "Belong",
+            "source": "Americas",
+            "target": "Crab dip",
+            "value": 3
+        },
+        {
+            "relation": "Belong",
+            "source": "Americas",
+            "target": "Quesadilla salvadoreña",
+            "value": 3
+        },
+        {
+            "relation": "Belong",
+            "source": "Asia",
+            "target": "Huangqiao Sesame Cake",
+            "value": 3
+        },
+        {
+            "relation": "Belong",
+            "source": "Asia",
+            "target": "Osmania biscuit",
+            "value": 3
+        },
+        {
+            "relation": "Belong",
+            "source": "Europe",
+            "target": "Amaretti di Saronno",
+            "value": 3
+        },
+        {
+            "relation": "Belong",
+            "source": "Europe",
+            "target": "Basler Läckerli",
+            "value": 3
+        },
+        {
+            "relation": "Belong",
+            "source": "Oceania",
+            "target": "Faraoa okina ipo",
+            "value": 3
+        },
+        {
+            "relation": "Belong",
+            "source": "Oceania",
+            "target": "Frog cake",
+            "value": 3
+        }
+    ],
+    "nodes": [
+        {
+            "class": "Recipe",
+            "group": "1",
+            "id": "Bunny chow",
+            "size": "10"
+        },
+        {
+            "class": "Recipe",
+            "group": "1",
+            "id": "Chakhchoukha",
+            "size": "10"
+        },
+        {
+            "class": "Recipe",
+            "group": "1",
+            "id": "Crab dip",
+            "size": "10"
+        },
+        {
+            "class": "Recipe",
+            "group": "1",
+            "id": "Quesadilla salvadoreña",
+            "size": "10"
+        },
+        {
+            "class": "Recipe",
+            "group": "1",
+            "id": "Huangqiao Sesame Cake",
+            "size": "10"
+        },        {
+            "class": "Recipe",
+            "group": "1",
+            "id": "Osmania biscuit",
+            "size": "10"
+        },
+        {
+            "class": "Recipe",
+            "group": "1",
+            "id": "Amaretti di Saronno",
+            "size": "10"
+        },
+        {
+            "class": "Recipe",
+            "group": "1",
+            "id": "Basler Läckerli",
+            "size": "10"
+        },        {
+            "class": "Recipe",
+            "group": "1",
+            "id": "Faraoa okina ipo",
+            "size": "10"
+        },
+        {
+            "class": "Recipe",
+            "group": "1",
+            "id": "Frog cake",
+            "size": "10"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "bread",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "curry",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "chickpea",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "tomato",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "onion",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "garlic",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "meat",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "vegetables",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "algerian spices",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "crab",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "cream cheese",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "mayonnaise",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "flour",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "sugar",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "cheese",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "salt",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "yeast",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "caramel",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "pork suet",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "sesame",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "alkali",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "lard",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "milk",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "apricot kernels",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "egg",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "honey",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "hazelnuts",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "almond",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "candied peel",
+            "size": "8"
+        },       {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "kirsch",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "coconut milk",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "coconut water",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "sponge cake",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "jam",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "cream",
+            "size": "8"
+        },
+        {
+            "class": "Ingredients",
+            "group": "2",
+            "id": "fondant",
+            "size": "8"
+        },
+        {
+            "class": "Continent",
+            "group": "0",
+            "id": "Asia",
+            "size": "16"
+        },
+        {
+            "class": "Continent",
+            "group": "0",
+            "id": "Africa",
+            "size": "16"
+        },        {
+            "class": "Continent",
+            "group": "0",
+            "id": "Americas",
+            "size": "16"
+        },        {
+            "class": "Continent",
+            "group": "0",
+            "id": "Europe",
+            "size": "16"
+        },        {
+            "class": "Continent",
+            "group": "0",
+            "id": "Oceania",
+            "size": "16"
+        }
+    ]
+}

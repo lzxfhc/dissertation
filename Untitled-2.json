@@ -1,0 +1,145 @@
+{
+    "Africa": {
+        "Sub-dish": [
+            "Bunny chow",
+            "Chakhchoukha"
+        ]
+    },
+    "Americas":{
+        "Sub-dish":[
+            "Crab dip",
+            "Quesadilla salvadoreña"
+        ]
+    },
+    "Asia":{
+        "Sub-dish":[
+            "Huangqiao Sesame Cake",
+            "Osmania biscuit"
+        ]
+    },
+    "Europe":{
+        "Sub-dish":[
+            "Amaretti di Saronno",
+            "Basler Läckerli"
+        ]
+    },
+    "Oceania":{
+        "Sub-dish":[
+            "Faraoa okina ipo",
+            "Frog cake"
+        ]
+    },
+    "Bunny chow":{
+        "main_ingredient":[
+            "bread",
+            "curry"
+        ],
+        "caption":[
+            "A quarter mutton bunny with topping"
+        ]
+    },
+    "Chakhchoukha":{
+        "main_ingredient":[
+            "chickpea",
+            "tomato",
+            "onion",
+            "garlic",
+            "meat",
+            "vegetables",
+            "algerian spices"
+        ],
+        "caption":[
+            "Meat chakhchoukha biskria (from the city of Biskra in Algeria) served in a Tajine pot along with merqa."
+        ]
+    },
+    "Crab dip":{
+        "main_ingredient":[
+            "crab",
+            "cream cheese",
+            "mayonnaise"
+        ],
+        "caption":[
+            "Crab dip served with flatbread"
+        ]
+    },
+    "Quesadilla salvadoreña":{
+        "main_ingredient":[
+            "flour",
+            "sugar",
+            "cheese"
+        ],
+        "caption":[
+            ""
+        ]
+    },
+    "Huangqiao Sesame Cake":{
+        "main_ingredient":[
+            "flour",
+            "salt",
+            "yeast",
+            "caramel",
+            "pork suet",
+            "onion",
+            "sesame",
+            "alkali",
+            "lard"
+        ],
+        "caption":[
+            ""
+        ]
+    },
+    "Osmania biscuit":{
+        "main_ingredient":[
+            "milk",
+            "flour",
+            "salt",
+            "sugar"
+        ],
+        "caption":[
+            ""
+        ]
+    },
+    "Amaretti di Saronno":{
+        "main_ingredient":[
+            "apricot kernels",
+            "sugar",
+            "egg"
+        ],
+        "caption":[
+            ""
+        ]
+    },
+    "Basler Läckerli":{
+        "":[
+            "honey",
+            "hazelnuts",
+            "almond",
+            "candied peel",
+            "kirsch"
+        ],
+        "caption":[
+            ""
+        ]
+    },
+    "Faraoa okina ipo":{
+        "":[
+            "flour",
+            "coconut milk",
+            "yeast",
+            "coconut water"
+        ],
+        "caption":[
+            "Faraoa okina ipo"
+        ]
+    },    "":{
+        "Frog cake":[
+            "sponge cake",
+            "jam",
+            "cream",
+            "fondant"
+        ],
+        "caption":[
+            "Brown, pink and green frog cakes"
+        ]
+    }
+}
